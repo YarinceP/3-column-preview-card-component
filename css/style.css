@@ -1,0 +1,8 @@
+/* FONTS Lexend Deca 400 and Big Shoulders Display 700*/
+@import url('https://fonts.googleapis.com/css2?family=Big+Shoulders+Display:wght@700&family=Lexend+Deca&display=swap');
+
+body {
+    background-color: hsl(0, 0%, 95%);
+    min-height: 100vh;
+
+}
